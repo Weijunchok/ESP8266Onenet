@@ -1,2 +1,2 @@
-# ESP8266Onenet
-ESP8266 MQTT Onenet Arduino
+# ESP8266 Onenet MQTT
+This Demo can make the ESP8266 development board, Such as Nodemcu Board, connect to the mobile Onenet cloud platform through the old version of MQTT (non-MQTTS) protocol after connecting to WiFi, and realize data upstream publishing and user downstream command subscription. The program is written in C language and published with Arduino software. For the library, see the Libraries archive.
